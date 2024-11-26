@@ -15,7 +15,7 @@ This repository contains a notebook using vLLM for efficient batch inference to 
 * Clone the repository :
 
 ```bash
-git clone https://github.com/MaximeILL/efficient_data_enrichment_vllm.git
+git clone https://github.com/MaximeILL/dataset-enrichment-vllm.git
 ```
 
 * Navigate to the directory :
