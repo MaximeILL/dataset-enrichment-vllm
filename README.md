@@ -21,7 +21,7 @@ git clone https://github.com/MaximeILL/efficient_data_enrichment_vllm.git
 * Navigate to the directory :
   
 ```bash
-cd data_enrichment
+cd dataset-enrichment-vllm
 ```
 
 * Install the dependencies :
