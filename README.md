@@ -1,6 +1,6 @@
 # Efficient Dataset Enrichment using vLLM
 
-This repository contains a notebook using vLLM for efficient batch inference to enrich large datasets using generative AI models.
+This repository contains a notebook using generative models to enrich large datasets with efficient batch inference with vLLM.
 
 ## Description
 
